@@ -1,0 +1,7 @@
+Flask
+flask-session
+redis
+pandas
+detecto
+PyYAML
+dotmap

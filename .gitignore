@@ -1,0 +1,14 @@
+torch-1.7.1-cp38-cp38-manylinux1_x86_64.whl
+flask_session/*
+myenv/*
+myenv/
+__pycache__/
+__pycache__/*
+yolo_detection/data/alldata/*
+yolo_detection/__pycache__/*
+yolo_detection/runs/*
+yolo_detection/runs/
+yolo_detection/models/__pycache__/*
+*.pb
+model/EAST/
+model/ocr/transformerocr.pth
